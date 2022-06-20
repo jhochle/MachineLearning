@@ -1,9 +1,9 @@
 # Malaria Detection
 
-### Using Deep Learning and Convolutional Neural Networks to creat a computer vision model to cost effectively detect maaria
+Using Deep Learning and Convolutional Neural Networks to creat a computer vision model to cost effectively detect maaria
 
 
-## By James Hochleutner
+By James Hochleutner
 
 
 
@@ -39,6 +39,9 @@ Starting with a labeled data set of 27,558 color images takene from microscopic 
 - I tested a number of image augmentation techniques to try to improve the model
 - HSV, Gaussian Blurring, and ImageDataGenerator are all used to introduce more noise to the images and decrease model overfitting 
 - Images are all normalized by dividing color values by 255 or 252 (HSV) 
+
+![Blood_Samples](https://user-images.githubusercontent.com/62751735/174665229-fb97527f-c059-4e57-a932-1d74ac696912.jpg)
+
 
 ## Model Training Approach and Evaluation
 
