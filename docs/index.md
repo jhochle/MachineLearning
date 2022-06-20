@@ -14,10 +14,10 @@
 - Traditional Malaria Detection requires examination of individual samples by trained labratory professionals
 - many types ofo highly effective antimalaria medications are avaliable for treatment once patients are diagnosed
 - Low Cost, fast, and scalable detection could significantly reduce malaria mortality
-- By training a computer to detect malaria from the image of a red blood cell, we can elliminate the need for a trained lab technician in the diagnosis process
+- Using a computer vision model we can elliminate the need for a trained lab technician in the diagnosis process
+- Final model trained using a 14 layer Convolutional Neural Network achieved 98.8% accuracy on test set
 
 ```
-![image](https://user-images.githubusercontent.com/62751735/174640964-80a26b85-20de-4968-8444-d35067c9626d.png)
 
 
 
