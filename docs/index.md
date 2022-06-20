@@ -9,13 +9,13 @@
 ```markdown
 
 
-- Malaria is a deadly disease that is transmitted by infected mosquitos in predominantly warmer climates
-- CDC estimates 400,000 people die of malaria annually
-- Traditional Malaria Detection requires examination of individual samples by trained labratory professionals
-- many types ofo highly effective antimalaria medications are avaliable for treatment once patients are diagnosed
+- Malaria is a deadly disease that is transmitted by infected mosquitos.
+- CDC estimates 400,000 people die of malaria annually.
+- Traditional Malaria Detection requires examination of samples by trained labratory professionals
+- Many types fo highly effective antimalaria medications are avaliable for treatment
 - Low Cost, fast, and scalable detection could significantly reduce malaria mortality
-- Using a computer vision model we can elliminate the need for a trained lab technician in the diagnosis process
-- Final model trained using a 14 layer Convolutional Neural Network achieved 98.8% accuracy on test set
+- Using a computer vision model we can elliminate the need for a trained lab technician
+- Final model trained using a 14 layer Convolutional Neural Network achieved 98.8% accuracy
 
 ```
 
