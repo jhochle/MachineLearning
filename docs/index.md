@@ -88,6 +88,8 @@ Since attempts to incrase model complexity from our base model failed to improve
 - Faster training speeds due to ferwer trainable parameters (20 seconds using GPU on GoogleColab Pro)
 - Superier performance 98.8% overall model accuracy and 99% recall
 
+## Final Model
+
 ![image](https://user-images.githubusercontent.com/62751735/174659306-e632fd28-3edc-4a42-8d3a-6e8a6675ed60.png)
 
 ![image](https://user-images.githubusercontent.com/62751735/174659455-ac4fe9c2-8efa-40b2-8aa2-e5f33d38d0f2.png)
