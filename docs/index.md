@@ -5,8 +5,8 @@ Using Deep Learning and Convolutional Neural Networks to creat a computer vision
 
 By James Hochleutner
 
-View code and files on Github
-https://github.com/jhochle/MalariaDetection
+[View on Github] (https://github.com/jhochle/MalariaDetection)
+
 
 
 - Malaria is a deadly disease that is transmitted by infected mosquitos.
