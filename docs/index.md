@@ -6,7 +6,6 @@ Using Deep Learning and Convolutional Neural Networks to creat a computer vision
 By James Hochleutner
 
 
-
 https://github.com/jhochle/MalariaDetection
 
 [James Hochleutner Deep Learning Final Presentation.pptx](https://github.com/jhochle/MalariaDetection/files/8942084/James.Hochleutner.Deep.Learning.Final.Presentation.pptx)
